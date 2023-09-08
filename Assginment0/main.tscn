@@ -1,0 +1,41 @@
+[gd_scene load_steps=5 format=3 uid="uid://kdld23t1vtw5"]
+
+[ext_resource type="PackedScene" uid="uid://70m3hepffvyw" path="res://player.tscn" id="1_c6gep"]
+[ext_resource type="Script" path="res://main.cs" id="1_igywt"]
+[ext_resource type="PackedScene" uid="uid://6dv5ffag12x1" path="res://hud.tscn" id="2_5b4kj"]
+[ext_resource type="Texture2D" uid="uid://ccpxyahbv1v1n" path="res://art/background.jpg" id="2_l66v6"]
+
+[node name="Main" type="Node"]
+script = ExtResource("1_igywt")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+offset_left = -344.0
+offset_top = -8.0
+offset_right = 2656.0
+offset_bottom = 1992.0
+scale = Vector2(0.37, 0.37)
+texture = ExtResource("2_l66v6")
+
+[node name="HUD" parent="." instance=ExtResource("2_5b4kj")]
+
+[node name="Player" parent="." instance=ExtResource("1_c6gep")]
+visible = false
+position = Vector2(239, 620)
+
+[node name="EnemyTimer" type="Timer" parent="."]
+
+[node name="StartTimer" type="Timer" parent="."]
+wait_time = 2.0
+one_shot = true
+
+[node name="CoinTimer" type="Timer" parent="."]
+wait_time = 0.5
+
+[node name="StartPosition" type="Marker2D" parent="."]
+position = Vector2(240, 610)
+
+[connection signal="StartGame" from="HUD" to="." method="NewGame"]
+[connection signal="CoinCollected" from="Player" to="." method="CoinCollected"]
+[connection signal="MissleHit" from="Player" to="." method="MissleHit"]
+[connection signal="timeout" from="EnemyTimer" to="." method="SpawnMissle"]
+[connection signal="timeout" from="CoinTimer" to="." method="SpawnCoin"]

@@ -1,0 +1,24 @@
+[gd_scene load_steps=4 format=3 uid="uid://70m3hepffvyw"]
+
+[ext_resource type="Script" path="res://player.cs" id="1_lxsg8"]
+[ext_resource type="Texture2D" uid="uid://c2stgq142cip4" path="res://art/aircraft.png" id="1_n2xlo"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_1jkmu"]
+radius = 57.0
+height = 158.0
+
+[node name="Player" type="Area2D"]
+collision_layer = 3
+collision_mask = 3
+script = ExtResource("1_lxsg8")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+rotation = 1.5708
+scale = Vector2(0.08, 0.08)
+texture = ExtResource("1_n2xlo")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(-9, 1)
+shape = SubResource("CapsuleShape2D_1jkmu")
+
+[connection signal="body_entered" from="." to="." method="PlayerDidCollide"]
