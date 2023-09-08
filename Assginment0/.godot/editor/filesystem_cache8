@@ -1,39 +1,24 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1694204570
+::res://::1694206053
 Coin.cs::CSharpScript::-1::1693764071::0::1::::<><>::
-coin.tscn::PackedScene::4554729642662660705::1694202143::0::1::::<><>::res://Coin.cs<>uid://cahif3rgicetd::::res://art/coin.png
-export_presets.cfg::TextFile::-1::1694204166::0::1::::<><>::
+coin.tscn::PackedScene::4554729642662660705::1694202143::0::1::::<><>::res://Coin.cs<>uid://cahif3rgicetd
+export_presets.cfg::TextFile::-1::1694205853::0::1::::<><>::
 HUD.cs::CSharpScript::-1::1693769397::0::1::::<><>::
-hud.tscn::PackedScene::2183376187056270596::1694202143::0::1::::<><>::res://HUD.cs<>uid://dx00w83goyr37::::res://fonts/zorque.otf
+hud.tscn::PackedScene::2183376187056270596::1694202143::0::1::::<><>::res://HUD.cs<>uid://dx00w83goyr37
 icon.svg::CompressedTexture2D::6550710782633556830::1693752625::1694204143::1::::<><>::
 main.cs::CSharpScript::-1::1693770145::0::1::::<><>::
-main.tscn::PackedScene::708756276228492414::1694202143::0::1::::<><>::uid://70m3hepffvyw::::res://player.tscn<>res://main.cs<>uid://6dv5ffag12x1::::res://hud.tscn<>uid://ccpxyahbv1v1n::::res://art/background.jpg
+main.tscn::PackedScene::708756276228492414::1694202143::0::1::::<><>::uid://70m3hepffvyw
 missle.cs::CSharpScript::-1::1693764070::0::1::::<><>::
-missle.tscn::PackedScene::5573948028688790231::1694202143::0::1::::<><>::uid://cd8stgs0wwy0y::::res://art/missle.png<>res://missle.cs
+missle.tscn::PackedScene::5573948028688790231::1694202143::0::1::::<><>::uid://cd8stgs0wwy0y
 player.cs::CSharpScript::-1::1693767951::0::1::::<><>::
-player.tscn::PackedScene::2298431420942168690::1694202143::0::1::::<><>::res://player.cs<>uid://c2stgq142cip4::::res://art/aircraft.png
-::res://aircraft/::1694204438
-Coin.cs::CSharpScript::-1::312789600::0::1::::<><>::
-HUD.cs::CSharpScript::-1::312789600::0::1::::<><>::
-icon.svg::CompressedTexture2D::6550710782633556830::312789600::1694204680::1::::<><>::
-main.cs::CSharpScript::-1::312789600::0::1::::<><>::
-missle.cs::CSharpScript::-1::312789600::0::1::::<><>::
-player.cs::CSharpScript::-1::312789600::0::1::::<><>::
-::res://aircraft/art/::1694204438
-::res://aircraft/fonts/::1694204438
-::res://aircraft 2/::1694204570
-Coin.cs::CSharpScript::-1::312789600::0::1::::<><>::
-HUD.cs::CSharpScript::-1::312789600::0::1::::<><>::
-icon.svg::CompressedTexture2D::6550710782633556830::312789600::1694204680::1::::<><>::
-main.cs::CSharpScript::-1::312789600::0::1::::<><>::
-missle.cs::CSharpScript::-1::312789600::0::1::::<><>::
-player.cs::CSharpScript::-1::312789600::0::1::::<><>::
-::res://aircraft 2/art/::1694204570
-::res://aircraft 2/fonts/::1694204570
+player.tscn::PackedScene::2298431420942168690::1694202143::0::1::::<><>::res://player.cs<>uid://c2stgq142cip4
 ::res://art/::1694204144
 aircraft.png::CompressedTexture2D::6706264164704458523::1693753573::1694204144::1::::<><>::
 background.jpg::CompressedTexture2D::4945624081748686165::1693770583::1694204144::1::::<><>::
 coin.png::CompressedTexture2D::4787788173775142953::1693756622::1694204143::1::::<><>::
 missle.png::CompressedTexture2D::5052659544251019898::1693757158::1694204143::1::::<><>::
+::res://data_Assignment 0_x86_64/::1694205853
+Assignment 0.deps.json::JSON::-1::1694205852::0::1::::<><>::
+Assignment 0.runtimeconfig.json::JSON::-1::1694205852::0::1::::<><>::
 ::res://fonts/::1694204143
 zorque.otf::FontFile::8826773887707975292::1693768144::1694204143::1::::<><>::

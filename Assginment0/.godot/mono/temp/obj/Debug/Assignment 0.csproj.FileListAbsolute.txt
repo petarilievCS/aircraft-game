@@ -1,0 +1,17 @@
+/Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/bin/Debug/Assignment 0.deps.json
+/Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/bin/Debug/Assignment 0.runtimeconfig.json
+/Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/bin/Debug/Assignment 0.dll
+/Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/bin/Debug/Assignment 0.pdb
+/Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/obj/Debug/Assignment 0.csproj.AssemblyReference.cache
+/Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/obj/Debug/Assignment 0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/obj/Debug/Assignment 0.AssemblyInfoInputs.cache
+/Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/obj/Debug/Assignment 0.AssemblyInfo.cs
+/Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/obj/Debug/Assignment 0.csproj.CoreCompileInputs.cache
+/Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/obj/Debug/Assignment 0.csproj.CopyComplete
+/Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/obj/Debug/Assignment 0.dll
+/Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/obj/Debug/refint/Assignment 0.dll
+/Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/obj/Debug/Assignment 0.pdb
+/Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/obj/Debug/Assignment 0.genruntimeconfig.cache
+/Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/obj/Debug/ref/Assignment 0.dll
