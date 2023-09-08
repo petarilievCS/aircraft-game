@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QQh9/MIGFyB/gXgdgCFxQHWrIXDAF878So4/MhWFM+Ev2q+BHl3jBp9OHETevqlLKr5JMZaxgPgGCuSGl34kCA==",
+  "success": true,
+  "projectFilePath": "/Users/petariliev/Godot Games/assignment0/Assginment0/Assignment 0.csproj",
+  "expectedPackageFiles": [
+    "/Users/petariliev/.nuget/packages/godot.sourcegenerators/4.1.1/godot.sourcegenerators.4.1.1.nupkg.sha512",
+    "/Users/petariliev/.nuget/packages/godotsharp/4.1.1/godotsharp.4.1.1.nupkg.sha512",
+    "/Users/petariliev/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.16/microsoft.netcore.app.runtime.linux-x64.6.0.16.nupkg.sha512",
+    "/Users/petariliev/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.16/microsoft.aspnetcore.app.runtime.linux-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
