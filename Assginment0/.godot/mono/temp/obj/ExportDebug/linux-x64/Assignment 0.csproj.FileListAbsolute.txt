@@ -1,7 +1,6 @@
 /Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/bin/ExportDebug/linux-x64/Assignment 0.deps.json
 /Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/bin/ExportDebug/linux-x64/Assignment 0.runtimeconfig.json
 /Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/bin/ExportDebug/linux-x64/Assignment 0.dll
-/Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/bin/ExportDebug/linux-x64/Assignment 0.pdb
 /Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/bin/ExportDebug/linux-x64/GodotSharp.dll
 /Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/bin/ExportDebug/linux-x64/Microsoft.CSharp.dll
 /Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/bin/ExportDebug/linux-x64/Microsoft.VisualBasic.Core.dll
@@ -190,6 +189,5 @@
 /Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/obj/ExportDebug/linux-x64/Assignment 0.csproj.CopyComplete
 /Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/obj/ExportDebug/linux-x64/Assignment 0.dll
 /Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/obj/ExportDebug/linux-x64/refint/Assignment 0.dll
-/Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/obj/ExportDebug/linux-x64/Assignment 0.pdb
 /Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/obj/ExportDebug/linux-x64/Assignment 0.genruntimeconfig.cache
 /Users/petariliev/Godot Games/assignment0/Assginment0/.godot/mono/temp/obj/ExportDebug/linux-x64/ref/Assignment 0.dll

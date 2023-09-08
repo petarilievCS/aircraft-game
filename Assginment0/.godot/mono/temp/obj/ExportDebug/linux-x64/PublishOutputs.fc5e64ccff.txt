@@ -1,7 +1,6 @@
 /var/folders/33/xv6wb7610q924fyy73hxv4040000gn/T/godot-publish-dotnet/12828-ExportDebug-linux-x64/Assignment 0.dll
 /var/folders/33/xv6wb7610q924fyy73hxv4040000gn/T/godot-publish-dotnet/12828-ExportDebug-linux-x64/Assignment 0.deps.json
 /var/folders/33/xv6wb7610q924fyy73hxv4040000gn/T/godot-publish-dotnet/12828-ExportDebug-linux-x64/Assignment 0.runtimeconfig.json
-/var/folders/33/xv6wb7610q924fyy73hxv4040000gn/T/godot-publish-dotnet/12828-ExportDebug-linux-x64/Assignment 0.pdb
 /var/folders/33/xv6wb7610q924fyy73hxv4040000gn/T/godot-publish-dotnet/12828-ExportDebug-linux-x64/Microsoft.CSharp.dll
 /var/folders/33/xv6wb7610q924fyy73hxv4040000gn/T/godot-publish-dotnet/12828-ExportDebug-linux-x64/Microsoft.VisualBasic.Core.dll
 /var/folders/33/xv6wb7610q924fyy73hxv4040000gn/T/godot-publish-dotnet/12828-ExportDebug-linux-x64/Microsoft.VisualBasic.dll
